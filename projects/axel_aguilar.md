@@ -81,37 +81,21 @@ El proyecto consumirá una API creado por mi (.NET CORE)
 
 # Funciones
 
-- Crear usuarios
-- Listar usuarios
-- Editar usuarios
-- Borrar usuarios
-- Crear pastes
-  - Crear subpastes
-  - Listar subpastes
-  - Modificar subpastes
-  - Borrar subpastes
-- Listar pastes
-- Editar pastes
-- Borrar pastes
-- Crear reportes
-- Resolver reporte
+- CRUD usuarios
+- CRUD pastes
+  - CRUD subpastes
+- CRUD reportes
+- CRUD roles
+  - CRUD permisos
 
 # Pantallas
 
-- Panel Administración
-- Listado de pastes
-- Detalle de paste
-- Perfil de usuario
-- CRUD pastes / subpastes
-
-# Planes futuros
-
-- Contenido en BBcodes (permite insertar imágenes, videos, etc)
-- Plantillas (para agregar contenido más fácilmente)
-- Múltiples usuarios y rol de administrador
-- Detección y conversión de enlaces (incluido YouTube)
-- Sistema de reportes/problemas por paste y por sub-paste
-- Protección de paste con Captcha
-- Protección de enlaces con Click' n Load de JDownloader
-- Espacios publicitarios editables
-- Ids numéricos o texto
+- Registro
+- Inicio de Sesión
+- Dashboard
+- Ver paste
+- CRUD Pastes
+- CRUD Reportes
+- Panel de Administración
+  - CRUD Usuarios
+  - CRUD Roles
