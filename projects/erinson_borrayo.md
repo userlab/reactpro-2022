@@ -15,6 +15,8 @@ existira diferentes tipos de roles entre los cuales estan: swa, admin, cliente, 
 Un usuario podra registrarse o no en el sistema, por lo cual al registrarse podra tener la opción de poder visualizar todo lo relacionado con el ticket
 y tmabien podra responder cuando el lo necesite.
 
+[Repositorio](https://github.com/HegyverBorrayo/tickets-front "Ver repositorio").
+
 # Entidades
 
 ## Ticket
