@@ -5,31 +5,31 @@ Un producto puede tener dos estados:
 <li>Mientras haya existencia el producto estara visualizado en pantalla.</li>
 <li>Cuando el producto este agotado, es decir con existencia igual a cero, este no se mostrara en el catalogo.</li>
 
-#Entidades
+# Entidades
 
-##Producto
+## Producto
 <ul>
 <li>Id</li>
 <li>Producto</li>
 <li>Imagen</li>
 <li>Stock</li>
 
-##Bodega
+## Bodega
 <li>Id</li>
 <li>Bodega</li>
 <li>Detalle</li>
 
-##Usuario
+## Usuario
 <li>Id</li>
 <li>Nombre</li>
 <li>correo</li>
 
-#Relaciones
+# Relaciones
 <li>Un producto tiene una bodega</li>
 <li>Una bodega tiene asignados muchos productos</li>
 <li>Un usuario modifica el estock de uno o mas productos</li>
 
-#Funciones
+# Funciones
 <li>Crear usuario</li>
 <li>Editar usuario</li>
 <li>Autenticar usuario</li>
@@ -39,7 +39,7 @@ Un producto puede tener dos estados:
 <li>Buscar producto</li>
 <li>Modificar estado de producto</li>
 
-#Pantallas
+# Pantallas
 <li>Catalogo productos</li>
 <li>Detalle productos</li>
 <li>Login usuario</li>
