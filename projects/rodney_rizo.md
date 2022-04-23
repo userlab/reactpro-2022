@@ -8,6 +8,8 @@ Por otra parte, el usuario podrá ser capaz de guardar sus fotos favoritas en su
 
 ###### Esta aplicación consumirá una API llamada  [APOD](https://apod.nasa.gov/apod/astropix.html) (Astronomy Picture of the Day)
 
+###### 👨‍💻 Puedes consultar el repositorio del proyecto acá ->  [APPOD](https://github.com/rodrizo/appod) 
+
 ## Entidades
 
 ### Usuario
