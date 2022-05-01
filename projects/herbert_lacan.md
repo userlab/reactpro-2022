@@ -4,6 +4,8 @@ Esta aplicación se utilizará para llevar un registro sobre los doctores y paci
 
 Se podran asignar pacientes a sus respectivas camas dependiendo el estado que estara la cama, estas podran estar libres u ocupadas. Se tendran un registro de su historial medico asi como su historial de visitas medicas adjuntando el medico que atendió a la persona.
 
+[Link al repositorio del proyecto de hospital](https://github.com/HLacan/react-hospital-project)
+
 # Entidades
 
 ## Paciente
